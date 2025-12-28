@@ -46,6 +46,7 @@ Folium is used to create interactive maps showing launch site locations and thei
 The final notebook implements classification models to predict landing success. After data preprocessing including feature standardization and train-test splitting, four algorithms are trained and evaluated: Logistic Regression, Support Vector Machine (SVM), Decision Tree, and K-Nearest Neighbors (KNN). Model performance is compared using accuracy metrics and confusion matrices. The Decision Tree classifier achieved the highest accuracy at 94.44%, correctly predicting 12 successful landings and 5 failures in the test set.
 
 ---
+## Code Files and Prasentation by Stefan Civelek
 
 ## Repository
 
