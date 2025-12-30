@@ -46,8 +46,13 @@ Folium is used to create interactive maps showing launch site locations and thei
 The final notebook implements classification models to predict landing success. After data preprocessing including feature standardization and train-test splitting, four algorithms are trained and evaluated: Logistic Regression, Support Vector Machine (SVM), Decision Tree, and K-Nearest Neighbors (KNN). Model performance is compared using accuracy metrics and confusion matrices. The Decision Tree classifier achieved the highest accuracy at 94.44%, correctly predicting 12 successful landings and 5 failures in the test set.
 
 ---
+
 ## Code Files and Prasentation by Stefan Civelek
+| IBM Data Science Professional | [Hier Name des 2. Badges] |
+|:---:|:---:|
+| <!-- Bild 1 --> <a href="LINK_ZU_DEINEM_CREDLY_ZERTIFIKAT_1"><img src="LINK_ZUR_BILD_URL_1" width="150"></a> | <!-- Bild 2 --> <a href="LINK_ZU_DEINEM_CREDLY_ZERTIFIKAT_2"><img src="LINK_ZUR_BILD_URL_2" width="150"></a> |
 
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a561fe39-3415-433d-b9d2-0656b43e205c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ## Repository
-
 Full project code and documentation: [https://github.com/StefanC05/DataScience_Capstone/tree/main](https://github.com/StefanC05/DataScience_Capstone/tree/main)
