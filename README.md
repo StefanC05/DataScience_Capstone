@@ -5,7 +5,7 @@
 The IBM Data Science Professional Certificate is a comprehensive program offered through Coursera that covers the foundational skills required for a career in data science. The course includes hands-on training in Python, SQL, data visualization, statistical analysis, and machine learning. Participants work with real-world datasets and tools like Jupyter Notebooks, pandas, NumPy, scikit-learn, and various visualization libraries to develop practical data science skills.
 
 ## Capstone Project: SpaceX Falcon 9 Launch Success Prediction
-
+"![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing_1.gif)"
 This capstone project analyzes SpaceX Falcon 9 rocket launches to predict landing success rates. SpaceX has revolutionized space travel by making rocket launches significantly more cost-effective - a Falcon 9 launch costs approximately $62 million compared to competitors. The key to this cost reduction is the reusability of the first stage booster.
 
 The project employs the complete data science workflow: data collection, wrangling, exploratory data analysis (EDA), interactive visualizations, and predictive modeling using classification algorithms. The goal is to determine the factors that influence successful rocket landings and build a model that can predict landing outcomes.
